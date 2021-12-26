@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form_2</class>
+ <widget class="QWidget" name="Form_2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1108</width>
+    <height>818</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>280</y>
+     <width>181</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">Color: rgba(0, 7, 141, 1)
+</string>
+   </property>
+   <property name="text">
+    <string>الرغبة الاولي</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>290</y>
+     <width>181</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">Color: rgba(0, 7, 141, 1)
+</string>
+   </property>
+   <property name="text">
+    <string>الرغبة الثانية</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>510</y>
+     <width>181</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">Color: rgba(0, 7, 141, 1)
+</string>
+   </property>
+   <property name="text">
+    <string>الرغبة الثالثة</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>510</y>
+     <width>181</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">Color: rgba(0, 7, 141, 1)
+</string>
+   </property>
+   <property name="text">
+    <string>الرغبة الرابعة</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_10">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>690</y>
+     <width>231</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">Color: rgba(0, 7, 141, 1)
+</string>
+   </property>
+   <property name="text">
+    <string>تعديل البيانات</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_1">
+   <property name="geometry">
+    <rect>
+     <x>-130</x>
+     <y>70</y>
+     <width>851</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>24</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">Color: rgba(0, 83, 139, 1)
+</string>
+   </property>
+   <property name="text">
+    <string>نافذة الرغبات </string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
